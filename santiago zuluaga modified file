@@ -1,0 +1,66 @@
+<? xml version="1.0" encoding="UTF-8" ?> 
+<galaxias> 
+<via_lactea>
+<el sistema solar centro="sol" satelite="luna"> 
+  <planetas_enanos> pluton </planetas_enanos>
+  <planetas_enanos> eris </planetas_enanos> 
+  <planetas division="interiores"> 
+    <planeta> mercurio </planeta> 
+    <planeta> venus </planeta>
+    <planeta> tierra </planeta> 
+    <planeta> marte </planeta>
+  </planetas> 
+  <planetas division="exteriores"> 
+    <planeta> jupiter </planeta>
+    <planeta> saturno </planeta>
+    <planeta> urano </planeta>
+    <planeta> neptuno </planeta>
+    </planetas>
+  <cuerpos pequeños> 
+   <!-- Modificado por : santiago zuluaga -->
+   <asteroides>
+    <asteroide> Ceres </asteroide>
+    <asteroide> Palas </asteroide>
+    <asteroide> Juno </asteroide>   
+    <asteroide> Vesta </asteroide>   
+    <asteroide> Aton </asteroide>
+    <asteroide> Apolo </asteroide> 
+    <asteroide> Amor </asteroide>  
+    <asteroides> Hungarias </asteroides> 
+    <asteroides> Hildas </asteroides>   
+   </asteroides> 
+      <cometas>
+          <cometa> Cometa de cesar </cometa>
+          <cometa> Gran cometa de 1577 </cometa>
+          <cometa> Gran cometa de 1744 </cometa>
+          <cometa> Gran cometa de 1811 </cometa>
+          <cometa> Gran cometa de 1843 </cometa>
+          <cometa> Gran cometa de 1882 </cometa>
+          <cometa> Cometa 3D biela </cometa>
+          <cometa> Cometa borrelly </cometa>
+          <cometa> Cometa coggia </cometa>
+          <cometa> Cometa 67p/churymov gerasimenko </cometa>
+          <cometa> Cometa 2p/encke </cometa>
+          <cometa> Cometa hale bopp </cometa>
+          <cometa> Cometa 1p/halley </cometa>
+          <cometa> Cometa humason </cometa>
+          <cometa> Cometa hyakutake </cometa>
+          <cometa> Cometa ikeya seki </cometa>
+          <cometa> Cometa cohoutek </cometa>
+          <cometa> Cometa lukell </cometa>
+          <cometa> Cometa mrkos </cometa>
+          <cometa> Cometa shoemaker-levi9 </cometa>
+          <cometa> Cometa 9p/tempel 1 </cometa>
+          <cometa> Cometa 55p/tempel-tuttle </cometa>
+          <cometa> Cometa west </cometa>
+          <cometa> Cometa 109p/swift-tuttle </cometa>
+          <cometa> Cometa McNaught </cometa>
+      </cometas> 
+    <!-- Fin modificacion : santiago zuluaga -->
+    </estrellas_fugaces> </meteoritos> 
+  </cuerpos pequeños> 
+</el sistema solar> 
+</via_lactea>
+<andromeda> 
+</andromeda>
+</galaxias> 
