@@ -1,4 +1,5 @@
 <? xml version="1.0" encoding="UTF-8" ?> 
+<universo>
 <galaxias> 
 <via_lactea>
 <el sistema solar centro="sol" satelite="luna"> 
@@ -24,3 +25,4 @@
 <andromeda> 
 </andromeda>
 </galaxias> 
+</universo>
